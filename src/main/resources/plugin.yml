@@ -1,0 +1,4 @@
+name: NoAdvancementBroadcast
+version: '${project.version}'
+main: net.dxzzz.noadvancementbroadcast.NoAdvancementBroadcast
+depend: [ProtocolLib]
